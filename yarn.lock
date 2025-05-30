@@ -482,10 +482,10 @@ readable-stream@^3.4.0, readable-stream@^3.6.0:
     string_decoder "^1.1.1"
     util-deprecate "^1.0.1"
 
-rofl-parser.js@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/rofl-parser.js/-/rofl-parser.js-1.0.2.tgz#e8ec6c604ccb2fe965870972cec5d57247e23afd"
-  integrity sha512-mDB6iYZ4IwP/UvkfeWBWmi8U4qQYHTaS4VfKAgwRVHwd0Hep6MjM4SXq+fWNN2wOHEEbMlzK2kEEgYQEWaRI7A==
+rofl-parser.js@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/rofl-parser.js/-/rofl-parser.js-1.1.1.tgz#e1411cd1ebf7c144f312818088bfda9112d2ba00"
+  integrity sha512-kZyY0v2ACRZv/FJmriD7YsBls7FoE8V2d7OYePp0jaWb1hBlpJQ9u2q4XX2OLT4FNfDriRyug6gssDNEis0Ktw==
 
 safe-buffer@~5.2.0:
   version "5.2.1"
